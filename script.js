@@ -1,3 +1,5 @@
+const API_URL = 'https://crudcrud.com/api/9aec99eecbb44451ad81b595517879c3/clientes';
+
 const form = document.getElementById('cliente-form');
 const lista = document.getElementById('lista-clientes');
 const btnLimpar = document.getElementById('btn-apagar-todos');
