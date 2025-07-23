@@ -1,4 +1,4 @@
-const apiBase = "https://crudcrud.com/api/SEU_ENDPOINT/clientes";
+const apiBase = "https://crudcrud.com/api/9aec99eecbb44451ad81b595517879c3/clientes";
 
 const form = document.getElementById('cliente-form');
 const lista = document.getElementById('lista-clientes');
